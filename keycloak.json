@@ -1,0 +1,8 @@
+{
+    "realm": "arq",
+    "auth-server-url": "http://207.244.243.169:31010/",
+    "ssl-required": "external",
+    "resource": "frontend",
+    "public-client": true,
+    "confidential-port": 0
+  }
